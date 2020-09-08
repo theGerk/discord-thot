@@ -4,12 +4,12 @@
   "description": "Have you ever thought about a thot bot?",
   "main": "index.js",
   "scripts": {
-	"test": "ts-node index.ts",
-	"start": "ts-node index.ts"
+    "test": "ts-node index.ts",
+    "start": "ts-node index.ts"
   },
   "dependencies": {
-	"ts-node": "^3.3.0",
-	"typescript": "^2.4.2"
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
   },
   "repository": {
     "type": "git",
