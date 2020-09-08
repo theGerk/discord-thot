@@ -4,8 +4,8 @@
   "description": "Have you ever thought about a thot bot?",
   "main": "index.js",
   "scripts": {
-	"test": "node index.js",
-	"start": "node index.js"
+	"test": "ts-node index.ts",
+	"start": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
