@@ -1,0 +1,22 @@
+{
+  "name": "discord-thot",
+  "version": "1.0.0",
+  "description": "Have you ever thought about a thot bot?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theGerk/discord-thot.git"
+  },
+  "keywords": [
+    "thot"
+  ],
+  "author": "Benji Altman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theGerk/discord-thot/issues"
+  },
+  "homepage": "https://github.com/theGerk/discord-thot#readme"
+}
